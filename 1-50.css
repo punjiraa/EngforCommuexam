@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin: 20px;
+  background-image: url("05.jpg");
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+h3 {
+  font-size: 20px;
+  margin-top: 10px;
+  }
+p {
+  margin-bottom: 10px;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.choices {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.choices li {
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid #57341c;
+  border-radius: 5px;
+}
+
+.choices li input {
+  margin-right: 10px;
+}
+
+button:hover {
+  background-color: #00ff00; /* เปลี่ยนเป็นสีเขียวเมื่อเมาส์วางเหนือ */
+}
+/* เพิ่มเติม */
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #e28b7a;
+  padding: 20px;
+  text-align: center;
+}
+
+.header1 {
+
+  padding: 20px;
+  text-align: center;
+}
+.footer {
+  background-color: #e28b7a;
+  padding: 20px;
+  text-align: center;
+}
+
+.instructions {
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border: 2px;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+.inner {
+    background: #fff6e2;
+    margin: 2% 0;
+    padding: 0 20px;
+    justify-content: center;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

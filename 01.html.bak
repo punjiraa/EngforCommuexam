@@ -1,0 +1,727 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="1-50.css">
+		<meta charset="UTF-8">
+		
+		<title>แบบทดสอบ</title>
+	</head>
+	<body>
+		<div class="container">
+		<div class="inner">
+		<img src =04.jpg width=100% hight=100%>
+		<form method="get"action="01.php">
+		
+			<div class="header">
+				<h1>คลังข้อสอบวิชาชีพครู</h1>
+				<h2>บทที่ 2 วิชาการใช้ภาษาอังกฤษเพื่อการสื่อสาร</h2><p>
+				Name <input type="text" name="name"><br>
+				Email<input type="text" name="email"><p>
+			</div> <p>
+
+<div class="question">
+<b>Dialogue 1 </b> <br>
+James : oh, it’s raining heavily.<br>
+Tommy : <b>______1______</b> <br>
+James : let’s hide somewhere. <br>
+<b>1. Complete the dialogue </b>
+<p>
+<ul class="choices">
+<li><input type="radio"name="book1"value="A. It look like to rain.">A. It look like to rain.</li>
+<li><input type="radio"name="book1"value="B. Oh, yes, it’s raining cats and dogs.">B. Oh, yes, it’s raining cats and dogs.</li>
+<li><input type="radio"name="book1"value="C. I think it’s 20 degrees above zero.">C. I think it’s 20 degrees above zero.</li>
+<li><input type="radio"name="book1"value="D. Cold weather has set in.">D. Cold weather has set in.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b> Dialogue 2 </b> <br>
+Clivia : how many times have you been to Europe? <br>
+Karla : <b>______2______ </b><br>
+<b> 2. Complete the dialogue </b>
+<p>
+<ul class="choices">
+<li><input type="radio"name="book2"value="A. Once">A. Once</li>
+<li><input type="radio"name="book2"value="B. Yes, I’ve">B. Yes, I’ve</li>
+<li><input type="radio"name="book2"value="C. 2 years ago">C. 2 years ago</li>
+<li><input type="radio"name="book2"value="D. Next summer">D. Next summer</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b> Dialogue 3 </b> <br>
+Fiona : Look over there! What can it be? It’s scared me out of out of my wits. <br>
+Cate : <b>________3________ </b><br>
+<b> 3. Complete the dialogue </b>
+<p>
+<ul class="choices">
+<li><input type="radio"name="book3"value="A. Let’s call the operator.">A. Let’s call the operator.</li>
+<li><input type="radio"name="book3"value="B. Let’s make a transferred charge call now.">B. Let’s make a transferred charge call now.</li>
+<li><input type="radio"name="book3"value="C. Oh, that OK. Clam down. It’s only a cat.">C. Oh, that OK. Clam down. It’s only a cat.</li>
+<li><input type="radio"name="book3"value="D. We’ll find out who plays there if we come up to the hill.">D. We’ll find out who plays there if we come up to the hill.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>4. Manufacturers are planning to <u>donate</u> computers to schools in poor areas.</b><p>
+<ul class="choices">
+<li><input type="radio"name="book4"value="A. vote">A. vote</li>
+<li><input type="radio"name="book4"value="B. go">B. go</li>
+<li><input type="radio"name="book4"value="C. load">C. load</li>
+<li><input type="radio"name="book4"value="D. give">D. give</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>5. All the cleaning products are <u>hazardous</u> to the skin and eyes; therefore them out of reach of children.</b><p>
+<ul class="choices">
+<li><input type="radio"name="book5"value="A. dangerous">A. dangerous</li>
+<li><input type="radio"name="book5"value="B. safe">B. safe</li>
+<li><input type="radio"name="book5"value="C. enjoyable">C. enjoyable</li>
+<li><input type="radio"name="book5"value="D. liquefied">D. liquefied</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>6. His parents were very <u>religious</u> and the boy had to sing at church services.</b><p>
+<ul class="choices">
+<li><input type="radio"name="book6"value="A. devote">A. devote</li>
+<li><input type="radio"name="book6"value="B. faithful">B. faithful</li>
+<li><input type="radio"name="book6"value="C. reluctant">C. reluctant</li>
+<li><input type="radio"name="book6"value="D. atheistic">D. atheistic</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>7. All the local residents spent that <u>awful</u> night in a school.</b><p>
+<ul class="choices">
+<li><input type="radio"name="book7"value="A. awkward">A. awkward</li>
+<li><input type="radio"name="book7"value="B. authentic">B. authentic</li>
+<li><input type="radio"name="book7"value="C. terrible">C. terrible</li>
+<li><input type="radio"name="book7"value="D. insignificant">D. insignificant</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>8. What has changed from the trip to Bradley place? </b><br>
+
+<img src =03.jpg width=30% hight=30%><p>
+
+<ul class="choices">
+<li><input type="radio"name="book8"value="A. The price">A. The price</li>
+<li><input type="radio"name="book8"value="B. The location ">B. The location </li>
+<li><input type="radio"name="book8"value="C. The transport">C. The transport</li>
+<li><input type="radio"name="book8"value="D. The departure time">D. The departure time</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>9. Where would you not see this sign? </b><br>
+<img src =01.jpg width=30% hight=30%> <p>
+<ul class="choices">
+<li><input type="radio"name="book9"value="A. In a field.">A. In a field.</li>
+<li><input type="radio"name="book9"value="B. In a building.">B. In a building.</li>
+<li><input type="radio"name="book9"value="C. In a parking lot.">C. In a parking lot.</li>
+<li><input type="radio"name="book9"value="D. In the castle.">D. In the castle.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>10. Choose the correct answer. </b><br>
+<img src =02.jpg width=30% hight=30%> <p>
+<ul class="choices">
+<li><input type="radio"name="book10"value="A. Two ice creams will cost the same as one.">A. Two ice creams will cost the same as one.</li>
+<li><input type="radio"name="book10"value="B. You can get free ice cream all afternoon.">B. You can get free ice cream all afternoon.</li>
+<li><input type="radio"name="book10"value="C. The ice cream shop is open for only 2 hours.">C. The ice cream shop is open for only 2 hours.</li>
+<li><input type="radio"name="book10"value="D. The special offer is available except 12 – 2 p.m.">D. The special offer is available except 12 – 2 p.m.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>11. I want to visit my uncle in America. ________________________________ </b><p> 
+<ul class="choices">
+<li><input type="radio" name="book11" value="A. He has been in California since February 1997 working.">A. He has been in California since February 1997 working.</li>
+<li><input type="radio" name="book11" value="B. He has been working since February 1997 in California.">B. He has been working since February 1997 in California.</li>
+<li><input type="radio" name="book11" value="C. He has since February 1997 been working in California.">C. He has since February 1997 been working in California.</li>
+<li><input type="radio" name="book11" value="D. He has been working in California since February 1997.">D. He has been working in California since February 1997.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>12. I got something to tell you before the competition. _____________________ </b><p>
+<ul class="choices">
+<li><input type="radio" name="book12" value="A. I've some interesting information about our competitors heard.">A. I've some interesting information about our competitors heard.</li>
+<li><input type="radio" name="book12" value="B. I've heard some information interesting about our competitors. ">B. I've heard some information interesting about our competitors. </li>
+<li><input type="radio" name="book12" value="C. I've heard about our competitors some interesting information. ">C. I've heard about our competitors some interesting information. </li>
+<li><input type="radio" name="book12" value="D. I've heard some interesting information about our competitors. ">D. I've heard some interesting information about our competitors. </li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>13. Helen wants to know about her friends in New York because__________________ </b><p>
+<ul class="choices">
+<li><input type="radio" name="book13" value="A. She hasn't heard anything recently about them.">A. She hasn't heard anything recently about them. </li>
+<li><input type="radio" name="book13" value="B. She hasn't heard anything about them recently. ">B. uShe hasn't heard anything about them recently. </li>
+<li><input type="radio" name="book13" value="C. She hasn't heard recently anything about them. ">C. She hasn't heard recently anything about them. </li>
+<li><input type="radio" name="book13" value="D. She recently hasn't heard anything about them.  ">D. She recently hasn't heard anything about them.  </li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>14. I have enough time to get to the meeting in Bangkok. Therefore, ________________ </b><p>
+<ul class="choices">
+<li><input type="radio" name="book14" value="A. I probably won't take the early train tomorrow. ">A. I probably won't take the early train tomorrow. </li>
+<li><input type="radio" name="book14" value="B. I won't take probably the early train tomorrow. ">B. I won't take probably the early train tomorrow. </li>
+<li><input type="radio" name="book14" value="C. I won't take the early train probably tomorrow. ">C. I won't take the early train probably tomorrow. </li>
+<li><input type="radio" name="book14" value="D. I won't take the probably early train tomorrow.">D. I won't take the probably early train tomorrow.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>15. Before entering the country, __________________________ </b><p>
+<ul class="choices">
+<li><input type="radio" name="book15" value="A. please fill out this form with your details. ">A. please fill out this form with your details. </li>
+<li><input type="radio" name="book15" value="B. please fill out your details with this form.">B. please fill out your details with this form. </li>
+<li><input type="radio" name="book15" value="C. please with your details fill out this form. ">C. please with your details fill out this form. </li>
+<li><input type="radio" name="book15" value="D. please fill out with the details this form.">D. please fill out with the details this form.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>16. It is very important for high school students to think about what_______________  </b><p>
+<ul class="choices">
+<li><input type="radio" name="book16" value="A.they will be. ">A. they will be.</li>
+<li><input type="radio" name="book16" value="B. will they be. ">B. will they be. </li>
+<li><input type="radio" name="book16" value="C. are they going to be. ">C. are they going to be.  </li>
+<li><input type="radio" name="book16" value="D. are their plans for the future.">D. are their plans for the future.</li>
+</ul>
+</div>
+<p>
+
+<b>E-mail</b><br>
+E-mail is your personal connection to the Internet. It allows you to exchange <b>___17___</b>with people all over the world. It can <b>___18___</b> text, pictures, and even audio and animation.  When you set up an account you <b>____19____</b> a unique address and anyone can send you e-mail. The mail you receive is stored on the server <b>____20____</b> you next connect and download it to your hard disk. <p>
+
+<div class="question">
+<b>17. </b><p>
+<ul class="choices">
+<li><input type="radio" name="book17" value="A. user names">A. user names </li>
+<li><input type="radio" name="book17" value="B. passwords">B. passwords</li>
+<li><input type="radio" name="book17" value="C. addresses ">C. addresses </li>
+<li><input type="radio" name="book17" value="D. Messages">D. Messages </li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>18. </b><p>
+<ul class="choices">
+<li><input type="radio" name="book18" value="A. conclude">A. conclude</li>
+<li><input type="radio" name="book18" value="B. decrease">B. Idecrease</li>
+<li><input type="radio" name="book18" value="C. produce">C. produce </li>
+<li><input type="radio" name="book18" value="D. Infer">D. Infer</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>19.</b><p>
+<ul class="choices">
+<li><input type="radio" name="book19" value="A. will give">A. will give</li>
+<li><input type="radio" name="book19" value="B. are given">B. are given  </li>
+<li><input type="radio" name="book19" value="C. are giving">C. Tare giving </li>
+<li><input type="radio" name="book19" value="D. have given ">D. have given </li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>20. </b><p>
+<ul class="choices">
+<li><input type="radio" name="book20" value="A. although ">A. although </li>
+<li><input type="radio" name="book20" value="B. because">B. because </li>
+<li><input type="radio" name="book20" value="C. until">C. until </li>
+<li><input type="radio" name="book20" value="D. So">D. So</li>
+</ul>
+</div>
+<p>
+
+<div class="instructions">
+<b>Question 21 - 23 refer to the following conversations.</b><p>
+<b>Dialog 4 </b></div><p>
+A: Devi, have you thought about where you would like to go to dinner on Friday for your birthday?<br>
+B: I am not sure. I don't know that many restaurants around here. <br>
+A: You know, we could look online at the local Internet sites. <br>
+B: Good. Let's take a look! <br>
+A: What kind of food would you like for your birthday? <br>
+B: I enjoy Thai or Japanese the best.<br>
+A: This one, Shogun, looks good. <br>
+B: Oh yes, I've heard of that one. Everyone I've spoken with says that it is great! <br>
+A: Would you like to go there then? <br>
+B: I think that that would be a really good choice! Let's call and make a reservation. <p>
+
+<div class="question">
+<b>21. What is the dialog mainly about?</b><p>
+<ul class="choices">
+<li><input type="radio" name="book21" value="A. Choosing a good food.">A. Choosing a good food.</li>
+<li><input type="radio" name="book21" value="B. Choosing a good location to eat. ">B. Choosing a good location to eat. </li>
+<li><input type="radio" name="book21" value="C. Choosing a good restaurant.">C. Choosing a good restaurant.</li>
+<li><input type="radio" name="book21" value="D. Choosing a good cook.">D. Choosing a good cook.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>22. When are they going to have dinner together? </b><p>
+<ul class="choices">
+<li><input type="radio" name="book22" value="A. Right after the phone call. ">A. Right after the phone call. </li>
+<li><input type="radio" name="book22" value="B. Not too soon">B. Not too soon</li>
+<li><input type="radio" name="book22" value="C. On Friday.">C. On Friday.</li>
+<li><input type="radio" name="book22" value="D. Every birthday anniversary.">D. Every birthday anniversary.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>23. What reason are they going to have dinner together?  </b><p>
+<ul class="choices">
+<li><input type="radio" name="book23" value="A. They love Thai and Japanese food. ">A. They love Thai and Japanese food. </li>
+<li><input type="radio" name="book23" value="B. They just want to try Shogun restaurant.">B. They just want to try Shogun restaurant.</li>
+<li><input type="radio" name="book23" value="C. They want to find a good place for dinner.">C. They want to find a good place for dinner.</li>
+<li><input type="radio" name="book23" value="D. It’s for Devi’s birthday. ">D. It’s for Devi’s birthday. </li>
+</ul>
+</div>
+<p>
+
+
+<b>Question 24 - 25 refer to the following conversations.</b><p>
+<b>Dialog 5 </b><br>
+A: Pardon me. Could you help me? <br>
+B: Of course. How can I help you?<br> 
+A: I am looking for a sweater. <br>
+B: What size do you wear? <br>
+A: Medium, I think.<br>
+B: Here. How do you like this one?<br> 
+A: It's pretty. Can I try it on? <br>
+B: You can try it on in the <strong><em><u>fitting room</u></em></strong> over there.<p>
+
+<div class="question">
+<b>24. Where does the situation take place? </b><p>
+<ul class="choices">
+<li><input type="radio" name="book24" value="A. At a night market. ">A. At a night market. </li>
+<li><input type="radio" name="book24" value="B. In a restaurant. ">B. In a restaurant. </li>
+<li><input type="radio" name="book24" value="C. In a coffee shop. ">C. In a coffee shop. </li>
+<li><input type="radio" name="book24" value="D. In a cloth shop. ">D. In a cloth shop. </li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>25. What does <strong><em><u>fitting room</u></em></strong> in the conversation mean? </b><p>
+<ul class="choices">
+<li><input type="radio" name="book25" value="A. A room for the buyer to take a rest.">A. A room for the buyer to take a rest.</li>
+<li><input type="radio" name="book25" value="B. A room that every office must have. ">B. A room that every office must have. </li>
+<li><input type="radio" name="book25" value="C. A room that fit well with the number of buyers.">C. A room that fit well with the number of buyers.</li>
+<li><input type="radio" name="book25" value="D. A room in a store in which one can try on clothes before deciding whether to purchase them.">D. A room in a store in which one can try on clothes before deciding whether to purchase them.</li>
+</ul>
+</div>
+<p>
+
+
+<b>Question 26 - 28 refer to the following conversations.</b><p>
+<b>Dialog 6 </b><br>
+A: Is this Professor Clark's office?<br>
+B: This is Professor Clark speaking.<br>
+A: This is Kalia from your morning literature class.<br>
+B: Yes, what can I do for you?<br>
+A: I had a skydiving accident over the weekend and won't be able to come to school today.<br>
+B: My goodness! Are you OK?<br>
+A: I broke my leg, but it is healing.<br>
+B: How long will you be out of class?<br>
+A: I should be able to return by next Monday.<br>
+B: Fine. Well, thanks for calling and letting me know you will be absent. I hope you feel better soon.<p>
+
+<div class="question">
+<b>26. Who is Professor Clark?</b><p>
+<ul class="choices">
+<li><input type="radio" name="book26" value="A. A school officer.">A. A school officer.</li>
+<li><input type="radio" name="book26" value="B. The faculty dean.">B. The faculty dean.</li>
+<li><input type="radio" name="book26" value="C. The university president.">C. The university president.</li>
+<li><input type="radio" name="book26" value="D. The Professor of her literature class.">D. The Professor of her literature class.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>27. Why did Kalia call Professor Clark?</b><p>
+<ul class="choices">
+<li><input type="radio" name="book27" value="A. To ask permission for school leave.">A. To ask permission for school leave.</li>
+<li><input type="radio" name="book27" value="B. To inform her professor about the accidence.">B. To inform her professor about the accidence.</li>
+<li><input type="radio" name="book27" value="C. To get credit for class absence.">C. To get credit for class absence.</li>
+<li><input type="radio" name="book27" value="D. To make up her class.">D. To make up her class.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>28. How long would Kalia be absent for the class?</b><p>
+<ul class="choices">
+<li><input type="radio" name="book28" value="A. About 1 day.">A. About 1 day.</li>
+<li><input type="radio" name="book28" value="B. About a week.">B. About a week.</li>
+<li><input type="radio" name="book28" value="C. About 2 weeks.">C. About 2 weeks.</li>
+<li><input type="radio" name="book28" value="D. For the entire class.">D. For the entire class.</li>
+</ul>
+</div>
+<p>
+
+<b>Question 29 - 30 refer to the following conversations.</b><p>
+<b> Dialog 7 </b><br>
+A: How are you doing today? <br>
+B: Great. What can I help you with? <br>
+A: I need to make an appointment for a haircut.<br>
+B: Okay. What day would you like to come in?<br>
+A: How's Saturday?<br>
+B: Let me just check the books.<br>
+A: Okay.<br>
+B: Yes. We have openings only that morning.<br>
+A: Can I make it for 10:30?<br>
+B: That'll be fine.<br>
+A: Sounds great, thank you.<br>
+B: No problem. See you Saturday morning.<p>
+
+<div class="question">
+<b>29. What is the conversation mainly about?</b><p>
+<ul class="choices">
+<li><input type="radio" name="book29" value="A. Making an appointment for a haircut">A. Making an appointment for a haircut</li>
+<li><input type="radio" name="book29" value="B. Finding a place for a haircut">B. Finding a place for a haircut</li>
+<li><input type="radio" name="book29" value="C. Booking a seat for a haircut">C. Booking a seat for a haircut</li>
+<li><input type="radio" name="book29" value="D. Inviting someone for a haircut">D. Inviting someone for a haircut</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>30. When is the appointment settled?</b><p>
+<ul class="choices">
+<li><input type="radio" name="book30" value="A. A quarter past ten on Saturday.">A. A quarter past ten on Saturday.</li>
+<li><input type="radio" name="book30" value="B. A quarter to ten on Saturday.">B. A quarter to ten on Saturday.</li>
+<li><input type="radio" name="book30" value="C. A quarter past eleven on Saturday.">C. A quarter past eleven on Saturday.</li>
+<li><input type="radio" name="book30" value="D. A quarter to eleven on Saturday.">D. A quarter to eleven on Saturday.</li>
+</ul>
+</div>
+<p>
+
+<div class="header1">
+                <b>Self-Directed Learning </b>
+            </div>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 21st century has brought unprecedented change in all spheres of our lives, 
+                creating a need for continuous learning and re-learning. It is now essential that learners be 
+                given an opportunity to develop a broader repertoire of skills, attitudes, and approaches in 
+                their formal educational experiences to prepare them for lifelong learning. <p>
+
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gaining competence in the traditional school subjects is 
+                no longer enough; there is now an urgent need to develop and practice skills such as problem-solving, critical thinking, 
+                resource identification, as well as attributes such as curiosity, initiative, and acceptance of 
+                responsibility for one's own learning. All of these skills and attributes are incorporated in the 
+                characteristics of a highly self-directed learner. <p>
+
+
+                <b>The Critical Role of the Learning Facilitator</b><br>
+
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Twenty-first century learners will need to become highly self-directed learners – 
+                equipped to effectively continue to address their learning needs throughout their lives. The 
+                role of the teacher as facilitator in designing and using instructional strategies which enable 
+                students effectively to direct their own learning is essential in enhancing Self-Directed 
+                Learning (SDL). Teachers, professors, and teacher trainers need to become learning 
+                facilitators, moving away from classroom approaches in which their students are merely 
+                passive recipients of the knowledge of others.<p>
+
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The traditional lecture reinforces the view that learning means absorbing information 
+                and repeating it, while it has been shown that having students take a more active part in the 
+                learning process is a much more effective teaching strategy. If we can successfully 
+                strengthen the SDL propensities and abilities of students, specifically in teacher education, 
+                these prospective teachers will be better prepared to be lifelong, self-directed learners and 
+                also more able to equip students with these skills at school level.<p>
+
+                <div class="question">
+                    <b>31. The word spheres in the first line could best be replaced by ______</b></p>
+
+                        <ul class="choices">
+						<li><input type="radio" name="book31" value="A.	globes">A. globes</li>
+                        <li><input type="radio" name="book31" value="B.	areas">B. areas</li>
+                        <li><input type="radio" name="book31" value="C.	circles">C. circles</li>
+                        <li><input type="radio" name="book31" value="D.	shapes">D. shapes </li>
+						</ul>
+				</div>
+						<p>
+
+                <div class="question">
+                    <b>32. What does facilitator mean? A person who _______</b></p>
+
+                        <ul class="choices">
+						<li><input type="radio" name="book32" value="A.	helps students learn the material themselves.">A. helps students learn the material themselves.</li>
+                        <li><input type="radio" name="book32" value="B.	instructs or trains others, esp. in a community.">B. instructs or trains others, esp. in a community.</li>
+                        <li><input type="radio" name="book32" value="C.	designs buildings and in many cases also supervises their construction.">C.	designs buildings and in many cases also supervises their construction. </li>
+                        <li><input type="radio" name="book32" value="D.	employs as a caretaker of a building.">D.	employs as a caretaker of a building.</li>
+						</ul>
+				</div>
+						<p>
+
+                <div class="question">
+                    <b>33. What are the roles of a teacher as a facilitator?</b></p>
+
+                     	<ul class="choices">
+						<li><input type="radio" name="book33" value="A.	Encourages students to strive to be the best they can.">A. Encourages students to strive to be the best they can.</li>
+                        <li><input type="radio" name="book33" value="B.	Gives lectures to students.">B. Gives lectures to students.</li>
+                        <li><input type="radio" name="book33" value="C.	Teachers are not the helpers.">C. Teachers are not the helpers.</li>
+                        <li><input type="radio" name="book33" value="D.	To offer support and advice when needed">D. To offer support and advice when needed</li>
+						</ul>
+				</div>
+						<p>
+
+                <div class="question">
+                    <b>34. What does lifelong learning mean? </b></p>
+
+                        <ul class="choices">
+						<li><input type="radio" name="book34" value="A.	Learning at young age">A. Learning at young age</li>
+                        <li><input type="radio" name="book34" value="B.	An adult Learning">B. An adult Learning</li>
+                        <li><input type="radio" name="book34" value="C.	Learning at all stages of life">
+                        C. Learning at all stages of life</li>
+                        <li><input type="radio" name="book34" value="D.	Learning by doing">D. Learning by doing</li>
+						</ul>
+				</div>
+						<p>
+
+                <div class="question">
+                    <b>35. What skills are incorporated in the characteristics of a self-directed learner?</b></p>
+						
+						<ul class="choices">
+                        <li><input type="radio" name="book35" value="A.	Problem solving and critical thinking skill.">A. Problem solving and critical thinking skill.</li>
+                        <li><input type="radio" name="book35" value="B.	Study skill and self-assessment.">B. Study skill and self-assessment.</li>
+                        <li><input type="radio" name="book35" value="C.	Management and leadership skill">C. Management and leadership skill</li>
+                        <li><input type="radio" name="book35" value="D.	Active learning and interpersonal skill">
+                        D. Active learning and interpersonal skill </li>
+						</ul>
+				</div>
+						<p>
+            
+                <b>Questions 36-40</b>
+
+                Direction: Choose the correct alternative to complete the sentences. 
+ 
+                <div class="question">
+                    <b>36. You had better take your mobile phone with you _________________</b></p>
+
+                        <ul class="choices">
+						<li><input type="radio" name="book36" value="A.	so that you can lose it. ">A. so that you can lose it. </li>
+                        <li><input type="radio" name="book36" value="B.	or I couldn’t have called you ">B. or I couldn’t have called you </li>
+                        <li><input type="radio" name="book36" value="C.	because I will not be at home during the whole day">C. because I will not be at home during the whole day</li>
+                        <li><input type="radio" name="book36" value="D.	in case you may not find one when you are in need of it">D. in case you may not find one when you are in need of it</li>
+						</ul>
+				</div>
+						<p>
+
+                <div class="question">
+                    <b>37. ______________________before the plane take off.</b></p>
+
+                        <ul class="choices">
+						<li><input type="radio" name="book37" value="A. You should eat something.">A. You should eat something.</li>
+                        <li><input type="radio" name="book37" value="B.	Please don’t forget to fasten your seat belt.">B. Please don’t forget to fasten your seat belt.</li>
+                        <li><input type="radio" name="book37" value="C.	You never remember to phone me.">C.	You never remember to phone me. </li>
+                        <li><input type="radio" name="book37" value="D.	I hope you didn’t forget to switch off your mobile phone.">D. I hope you didn’t forget to switch off your mobile phone.</li>
+						</ul>
+				</div>
+						<p>
+
+                <div class="question">
+                    <b>38. The old woman sitting in front of me asked me, _________________</b></p>
+
+                        <ul class="choices">
+						<li><input type="radio" name="book38" value="A.	If I can open the window">A. If I can open the window</li>
+                        <li><input type="radio" name="book38" value="B.	that I looked like her grand daughter.">B. that I looked like her grand daughter.</li>
+                        <li><input type="radio" name="book38" value="C.	if I recognized him or not">C. if I recognized him or not</li>
+                        <li><input type="radio" name="book38" value="D.	to read the address in the paper as she couldn’t read the letter clearly.">D. to read the address in the paper as she couldn’t read the letter clearly.</li>
+						</ul>
+				</div>
+						<p>
+
+                <div class="question">
+                    <b>39. The moment I saw the sad face of my girlfriend, _________________</b><p>
+
+                        <ul class="choices">
+						<li><input type="radio" name="book39" value="A.	I begin to feel depressed.">A.	I begin to feel depressed.</li>
+                        <li><input type="radio" name="book39" value="B.	I have realized that we will have a discussion about our relationship.">B.	I have realized that we will have a discussion about our relationship. </li>
+                        <li><input type="radio" name="book39" value="C.	I found out that something was wrong.">C.	I found out that something was wrong.</li>
+                        <li><input type="radio" name="book39" value="D.	She has gone out to have a walk.">D.	She has gone out to have a walk.</li>
+						</ul>
+				</div>
+						<p>
+
+                <div class="question">
+                    <b>40. Jake: How did you like the movie you saw last night.<br> 
+                        Karen: I can’t say it was the best I’ve ever seen.<br>
+                        Jake: ____________________________________<br>
+                        Karen: Certainly not. Do not waste your time.</b><br></p>
+
+                        <ul class="choices">
+						<li><input type="radio" name="book35" value="A.	Did you go alone all with a friend from work?">A. Did you go alone all with a friend from work?</li>
+                        <li><input type="radio" name="book35" value="B.sHadn’t you read the reviews before you went to see it?">B. Hadn’t you read the reviews before you went to see it?</li>
+                        <li><input type="radio" name="book35" value="C.	What do you mean by saying it depends?">C. What do you mean by saying it depends?</li>
+                        <li><input type="radio" name="book35" value="D. Then you wouldn’t recommend it, would you?">D.	Then you wouldn’t recommend it, would you?</li>
+						</ul>
+				</div>
+						<p>
+<div class="question">
+<b>41.The enemy could not hold...... much longer, because of hunger.</b><br> 
+
+<ul class="choices">
+<li><input type="radio" name="book41" value="A. down">A. down</li>
+<li><input type="radio" name="book41" value="B. out">B. out</li>
+<li><input type="radio" name="book41" value="C. with ">C. with </li>
+<li><input type="radio" name="book41" value="D. through">D. through</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>42.I took...... the lecture in my notebook with as much accuracy as I could. </b><br>
+
+<ul class="choices">
+<li><input type="radio" name="book42" value="A. up">A. up</li>
+<li><input type="radio" name="book42" value="B. down">B. down</li>
+<li><input type="radio" name="book42" value="C. at">C. at</li>
+<li><input type="radio" name="book42" value="D. by">D. by</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>43.If there is any word you do not understand in the book, look......the dictionary.</b><br>
+
+<ul class="choices">
+<li><input type="radio" name="book43" value="A. it up with">A. it up with</li>
+<li><input type="radio" name="book43" value="B. up it in">B. up it in</li>
+<li><input type="radio" name="book43" value="C. it up from">C. it up from</li>
+<li><input type="radio" name="book43" value="D. it up in">D. it up in</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>44.I was annoyed because he cut...... while I was speaking.</b><br>
+
+<ul class="choices">
+<li><input type="radio" name="book44" value="A. on">A. on</li>
+<li><input type="radio" name="book44" value="B. through">B. through</li>
+<li><input type="radio" name="book44" value="C. with ">C. with </li>
+<li><input type="radio" name="book44" value="D. in">D. in</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>45.The party was laid.......for those who had just completed their apprenticeship.</b><br>
+
+<ul class="choices">
+<li><input type="radio" name="book45" value="A. up">A. up</li>
+<li><input type="radio" name="book45" value="B. away">B. away</li>
+<li><input type="radio" name="book45" value="C. on">C. on</li>
+<li><input type="radio" name="book45" value="D. by">D. by</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>46. Situation: At dinner<br>
+Suda: Would you like to have some cake for desert?<br>                                                             
+Manee: No, thanks. Can I have some cookies? <br>                                                
+Suda : Yes. And I want to have some cookies, too.<br>                                                               The conversation means that _________________</b>
+<p>
+<ul class="choices">
+<li><input type="radio" name="book46" value="A. Suda likes to have some cake and Manee likes to have some cookies."> A. Suda likes to have some cake and Manee likes to have some cookies.</li>
+<li><input type="radio" name="book46" value="B. Suda and Manee like to have some cookies.">B. Suda and Manee like to have some cookies.</li>
+<li><input type="radio" name="book46" value="C. Suda and Manee like to have some cake.">C. Suda and Manee like to have some cake.</li>
+<li><input type="radio" name="book46" value="D. Suda likes to have some cookies and Mane likes to have some cake.">D. Suda likes to have some cookies and Mane likes to have some cake.</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>47.Situation: Prakit and Wirat are singing karaoke.<br>
+Prakit:  I don't like this song, please skip.<br> 
+Wirat:  Ok, what about this song? <br>
+Prakit: That's great, I like it. Let's sing together.<br>
+Wirat:____________________________</b><br>
+<p>
+
+<ul class="choices">
+<li><input type="radio" name="book47" value="A. Ok, I will.">A. Ok, I will.</li>
+<li><input type="radio" name="book47" value="B. I don't like the D.J.">B. I don't like the D.J.</li>
+<li><input type="radio" name="book47" value="C. Don't you like this song">C. Don't you like this song </li>
+<li><input type="radio" name="book47" value="D. Why don't you sing this song">D. Why don't you sing this song</li>
+<p>
+
+<div class="question">
+<b>48.Situation: Tin will buy a talking dictionary.<br>
+Tin:   Excuse me, I'm looking for a dictionary.<br> 
+Storekeeper: We have two dictionaries. One is 580 baht and the other is 300.<br> 
+Tin:  I want the cheaper one. Here is 1000 baht.<br> 
+Storekeeper:Thank you.________________________________.</b><br> 
+<p>
+
+<ul class="choices">
+<li><input type="radio" name="book48" value="A. Here is your 420 baht change">A. Here is your 420 baht change</li>
+<li><input type="radio" name="book48" value="B. Here is your 700 baht change">B. Here is your 700 baht change</li>
+<li><input type="radio" name="book48" value="C. Take your change please">C. Take your change please </li>
+<li><input type="radio" name="book48" value="D. Have a nice day">D. Have a nice day</li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>49.We're off to......John. We want to see the new film at the Indra.</b><br>
+<ul class="choices">
+<li><input type="radio" name="book49" value="A. pick over... come over">A. pick over... come over</li>
+<li><input type="radio" name="book49" value="B. pick up... come along">B. pick up... come along</li>
+<li><input type="radio" name="book49" value="C. pick on... come by">C. pick on... come by</li>
+<li><input type="radio" name="book49" value="D. pick out …come in ">D. pick out …come in </li>
+</ul>
+</div>
+<p>
+
+<div class="question">
+<b>50.My youngest sister could.....a faucet to get a drink, but she was never able to.....the water all over the floor.</b><br>
+<ul class="choices">
+<li><input type="radio" name="book50" value="A. turn out …put away">A. turn out …put away</li>
+<li><input type="radio" name="book50" value="B. turn to… pick up">B. turn to… pick up</li>
+<li><input type="radio" name="book50" value="C. turn on… clean up">C. turn on… clean up </li>
+<li><input type="radio" name="book50" value="D. turn off ... sweep away">D. turn off ... sweep away</li>
+</ul>
+</div>
+<p>
+
+
+<div class="footer">
+
+<input type="reset"value="ยกเลิก"> 
+<input type="submit"value="ส่งคำตอบ"> 
+
+</div>
+				</div>
+			</form>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,33 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="1-50.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>คลังข้อสอบ</title>
+</head>
+<body>
+	<div class="container">
+	<div class="inner">
+	<img src =04.jpg width=100% hight=100%>
+		<p>
+	<div class="header1">
+    <h1>คลังข้อสอบวิชาชีพครู</h1>
+	<h2>บทที่ 2 วิชาการใช้ภาษาอังกฤษเพื่อการสื่อสาร</h2>
+    
+	<h3><b>จัดทำโดย</b><p>
+	64410560 จิตติมา วงษ์ลา เลขที่ 1<br>
+	64412427 นายพรพิพัฒน์ บำรุง เลขที่ 7<br>
+	64412441 นางสาวพรรณจิรา เรืองการนา เลขที่ 8<br>
+	64413066 นางสาวรักษิณา ทับเนียมนาค เลขที่ 15<br>
+	64414544ธัญลักษณ์ หอมอ่อน เลขที่ 26<br>
+	กลุ่มเรียนที่ 1 <p>
+	คณะศึกษาศาสตร์ สาขาวิชาคอมพิวเตอร์<br>
+	มหาวิทยาลัยนเรศวร<br></h3>
+
+	<p>ยินดีต้อนรับสู่ข้อสอบ! คลิกปุ่มเพื่อเริ่มทำข้อสอบ </p>
+    <a href="01.html"><button>เริ่มทำข้อสอบ</button></a>
+	</div>
+	</div>
+	</div>
+</body>
+</html>
